@@ -4,7 +4,7 @@ body {
   background-repeat: repeat-y;
   background-position: right top;
   padding: 15px 95px 15px 15px;
-  background-image: url("hatterkocka.png");
+  background-image: url("../img/hatterkocka.png");
   color: #443502;
 }
 
